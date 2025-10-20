@@ -1,1 +1,41 @@
+# Arquivo: CITATION.cff
+# Caminho: ./CITATION.cff
 
+cff-version: 1.2.0
+message: "Se você usa este software, por favor cite. / If you use this software, please cite."
+title: "Teoria Fenchel–Unitariedade (TFU)"
+type: software
+authors:
+  - family-names: "Vieira"
+    given-names: "Paulo"
+    email: "libreeducacional@gmail.com"
+    # Affiliation pode ser ajustada depois, se desejar
+    affiliation: ""
+repository-code: "https://github.com/SEU-USUARIO-OU-ORG/tfu"
+url: "https://github.com/SEU-USUARIO-OU-ORG/tfu"
+license: "BSD-3-Clause"
+version: "0.1.0"
+abstract: >
+  Plataforma aberta para a Teoria Fenchel–Unitariedade (TFU), com pipelines reprodutíveis,
+  documentação técnica, dados versionados e validações. /
+  Open platform for Fenchel–Unitarity Theory (TFU), featuring reproducible pipelines,
+  technical documentation, versioned data, and validations.
+keywords:
+  - "análise espectral"
+  - "produtos de Weierstrass"
+  - "teoria de números"
+  - "Fenchel–Unitariedade"
+  - "reprodutibilidade"
+identifiers:
+  - type: url
+    value: "https://github.com/SEU-USUARIO-OU-ORG/tfu"
+preferred-citation:
+  type: article
+  title: "Preprint TFU"  # Atualize quando houver título oficial
+  authors:
+    - family-names: "Vieira"
+      given-names: "Paulo"
+  year: 2025
+  # Preencha quando disponível:
+  doi:
+  url:
